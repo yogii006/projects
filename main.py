@@ -14,7 +14,7 @@ col3, col4 = st.columns(2)
 with col3:
    st.image("bank.jpeg", use_column_width=False, width=image_width)
    st.markdown("### [Loan approval prediction](https://yogii006loan.streamlit.app/)")
-    st.markdown("### [Github code](https://github.com/yogii006/loan)")
+   st.markdown("### [Github code](https://github.com/yogii006/loan)")
 with col4:
    st.image("project.jpeg", use_column_width=False, width=image_width)
    st.markdown("### [Github code For this project](https://github.com/yogii006/projects)")
