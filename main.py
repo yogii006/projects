@@ -15,7 +15,7 @@ with col3:
     st.markdown("### [Heart disease prediction](https://yogii006heart-disease.streamlit.app/)")
     st.image("heart.png", use_column_width=False, width=image_width)
     st.markdown("### [Github code](https://github.com/yogii006/heart-disease)")
-st.markdown("-----------------------------------------------------------------------------------")
+st.title("----------------------------------------------------------------------------")
 col4, col5,col6 = st.columns(3)
 with col4:
    st.markdown("### [Loan approval prediction](https://yogii006loan.streamlit.app/)")
@@ -24,7 +24,7 @@ with col4:
 with col5:
    st.markdown("### [Link For this project](https://github.com/yogii006/projects)")
    st.image("project.jpeg", use_column_width=False, width=image_width)
-   st.markdown("### [Github code For this project](https://github.com/yogii006/projects)")
+   st.markdown("### [Github code](https://github.com/yogii006/projects)")
 with col6:
     st.markdown("### [Heart disease prediction](https://yogii006heart-disease.streamlit.app/)")
     st.image("heart.png", use_column_width=False, width=image_width)
