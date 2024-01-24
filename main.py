@@ -15,7 +15,7 @@ with col3:
     st.markdown("### [Heart disease prediction](https://yogii006heart-disease.streamlit.app/)")
     st.image("heart.png", use_column_width=False, width=image_width)
     st.markdown("### [Github code](https://github.com/yogii006/heart-disease)")
-
+st.markdown("-----------------------------------------------------------------------------------")
 col4, col5,col6 = st.columns(3)
 with col4:
    st.markdown("### [Loan approval prediction](https://yogii006loan.streamlit.app/)")
